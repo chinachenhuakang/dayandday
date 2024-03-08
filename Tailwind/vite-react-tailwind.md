@@ -16,3 +16,8 @@
   npx tailwindcss init
   
   https://tailwindcss.com/docs/installation/using-postcss
+
+
+
+
+  npx create-next-app@latest my-project --typescript --eslint
